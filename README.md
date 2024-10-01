@@ -2,7 +2,7 @@
 ## Welcome to my Github profile👋
 Everything you can imagine is real.
 - 🏡 I live in Thailand
-- 👀 I’m interested in UX/UI Design, Mobile App
+- 👀 I’m interested in UX/UI Design,FRONT-END
 - 🌱 I’m currently learning is Computer Engineering
 - 📫 Contact me at plam1599@gmail.com or Discord : 816549670301859840
 ### Skill
